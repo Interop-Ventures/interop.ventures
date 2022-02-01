@@ -3,7 +3,7 @@ version: "2.0"
 
 services:
   web:
-    image: interopventures/interop.ventures:latest
+    image: interopventures/interop.ventures:0.2
     expose:
       - port: 80
         as: 80
